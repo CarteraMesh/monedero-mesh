@@ -76,8 +76,8 @@ once_cell = "1.16"
 paste = "1.0"
 pin-project-lite = {version = "0.2.14" }
 rand = "0.8"
-reown-relay-client = { version = "0.1.0-rc1"}
-reown-relay-rpc = { version = "0.1.0-rc1"}
+reown-relay-client = { version = "0.1.0"}
+reown-relay-rpc = { version = "0.1.1"}
 regex = "1.10"
 reqwest = {version = "0.12", features = ["json"]}
 sha2 = "0.10"
